@@ -1,0 +1,60 @@
+@import "null.css";
+
+
+img{
+	width: 300px;
+}
+h1, h2{
+	color: red;
+}
+h3{
+	color: green;
+}
+.header{
+color: rebeccapurple;
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.green{
+	color: green;
+}
+.violet{
+	color: violet;
+}
+.orange{
+	color: orange;
+}
+.yellow{
+	color: yellow;
+}
+ul li{
+	color: turquoise;
+}
+ol li{
+	color: darkcyan;
+}
+li.even{
+	color: rosybrown;
+}
+.quote{
+	color: burlywood;
+}
+.caption{
+	color: chocolate;
+}
+.caption a{
+	color: darkolivegreen;
+}
+a{
+	color: darkred;
+}
+#special{
+	color: darkorange;
+}
+footer h2{
+	color: blue;
+}
